@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2002_координати_мишки_Деревянко", "2002_координати_мишки_Деревянко\2002_координати_мишки_Деревянко.csproj", "{32270CB2-B9FE-4C1C-AE17-B2952EAB2258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32270CB2-B9FE-4C1C-AE17-B2952EAB2258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32270CB2-B9FE-4C1C-AE17-B2952EAB2258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32270CB2-B9FE-4C1C-AE17-B2952EAB2258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32270CB2-B9FE-4C1C-AE17-B2952EAB2258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFF4DE7-5C2E-430B-A5CA-5AF77FE9DCF0}
+	EndGlobalSection
+EndGlobal
